@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-### I'm a third-year student majoring in software engineering
+### I'm a student majoring in software engineering
 
 # Hi, I'm Duy Phát! 👋
 
