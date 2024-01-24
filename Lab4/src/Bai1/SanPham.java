@@ -2,8 +2,8 @@ package Bai1;
 import java.util.Scanner;
 
 public class SanPham {
-    private String tenSp;
-    private double donGia, giamGia;
+    String tenSp;
+    double donGia, giamGia;
 
     public SanPham(String tenSp, double donGia, double giamGia){
         this.tenSp = tenSp;
