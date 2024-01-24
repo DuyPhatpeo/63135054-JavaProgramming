@@ -1,8 +1,8 @@
-package Lab2;
+package Bai3;
 
 import java.util.Scanner;
 
-public class Bai3 {
+public class TinhTienDien {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);

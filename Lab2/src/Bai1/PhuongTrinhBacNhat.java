@@ -1,8 +1,8 @@
-package Lab2;
+package Bai1;
 
 import java.util.Scanner;
 
-public class Bai1 {
+public class PhuongTrinhBacNhat {
 	public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
