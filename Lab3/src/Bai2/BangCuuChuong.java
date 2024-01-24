@@ -1,6 +1,6 @@
-package Lab3;
+package Bai2;
 
-public class Bai2 {
+public class BangCuuChuong {
     public static void main(String[] args) {
         for (int i = 1; i <= 9; i++) {
             System.out.println("Bảng cửu chương " + i + ":");
