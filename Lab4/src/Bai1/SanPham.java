@@ -2,8 +2,13 @@ package Bai1;
 import java.util.Scanner;
 
 public class SanPham {
-    String tenSp;
-    double donGia, giamGia;
+    private String tenSp;
+    private double donGia;
+    private double giamGia;
+
+    public SanPham(){
+    	
+    }
 
     public SanPham(String tenSp, double donGia, double giamGia){
         this.tenSp = tenSp;
@@ -11,7 +16,7 @@ public class SanPham {
         this.giamGia = giamGia;
     }
 
-    public double getThueNhapKhau(){
+    private double getThueNhapKhau(){
         return 0.1*donGia;
     }
 
@@ -30,10 +35,5 @@ public class SanPham {
         donGia = scanner.nextDouble();
         System.out.print("Nhập giảm giá: ");
         giamGia = scanner.nextDouble();
-    }
-    
-    public static void main(String[] args) {
-        SanPham sanPham1 = new SanPham("LapTop", 1000.00, 100.00);
-        sanPham1.xuat();
     }
 }
