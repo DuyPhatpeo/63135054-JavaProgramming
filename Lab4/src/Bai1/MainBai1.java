@@ -17,5 +17,8 @@ public class MainBai1 {
         SanPham sp4 = new SanPham();
         sp4.nhap();
         sp4.xuat();
+        SanPham sp5 = new SanPham("Điện thoại", 500.0);
+        System.out.println("\nThông tin sản phẩm 5:");
+        sp5.xuat();
     }
 }
