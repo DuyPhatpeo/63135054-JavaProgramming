@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dinopeo2810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinopeo2810" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dino péo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dino péo" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucvzztisrh9incva2wxn8vba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvzztisrh9incva2wxn8vba" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/c8YQkWSS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/c8YQkWSS" height="30" width="40" /></a>
 </p>
 
