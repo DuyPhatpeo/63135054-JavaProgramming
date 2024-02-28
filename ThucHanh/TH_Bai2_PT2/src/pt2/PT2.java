@@ -40,6 +40,7 @@ public class PT2 extends JFrame {
 		contentPane.add(lblNewLabel);
 		
 		txta = new JTextField();
+		txta.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		txta.setBounds(65, 68, 58, 29);
 		contentPane.add(txta);
 		txta.setColumns(10);
@@ -55,6 +56,7 @@ public class PT2 extends JFrame {
 		contentPane.add(btnTinh);
 		
 		txtb = new JTextField();
+		txtb.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		txtb.setColumns(10);
 		txtb.setBounds(202, 68, 58, 29);
 		contentPane.add(txtb);
@@ -65,6 +67,7 @@ public class PT2 extends JFrame {
 		contentPane.add(lblNewLabel_1);
 		
 		txtc = new JTextField();
+		txtc.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		txtc.setColumns(10);
 		txtc.setBounds(338, 68, 58, 29);
 		contentPane.add(txtc);
@@ -85,11 +88,13 @@ public class PT2 extends JFrame {
 		contentPane.add(lblNewLabel_1_3);
 		
 		txtKqX1 = new JTextField();
+		txtKqX1.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		txtKqX1.setColumns(10);
 		txtKqX1.setBounds(144, 180, 252, 35);
 		contentPane.add(txtKqX1);
 		
 		txtKqX2 = new JTextField();
+		txtKqX2.setFont(new Font("Tahoma", Font.PLAIN, 16));
 		txtKqX2.setColumns(10);
 		txtKqX2.setBounds(144, 252, 252, 35);
 		contentPane.add(txtKqX2);
@@ -122,11 +127,11 @@ public class PT2 extends JFrame {
 	        if(delta > 0) {
 	            x1 = (-b + Math.sqrt(delta)) / (2 * a);
 	            x2 = (-b - Math.sqrt(delta)) / (2 * a);
-	            txtKqX1.setText("x1 = "+String.valueOf(x1));
-	            txtKqX2.setText("x2 = "+String.valueOf(x2));
+	            txtKqX1.setText(String.valueOf(x1));
+	            txtKqX2.setText(String.valueOf(x2));
 	        } else if(delta == 0){
 	            x1 = -b / (2 * a);
-	            txtKqX1.setText("x = "+String.valueOf(x1));
+	            txtKqX1.setText(String.valueOf(x1));
 	            txtKqX2.setText("");
 	        } else {
 	            txtKqX1.setText("Phương trình không có nghiệm");
