@@ -1,5 +1,7 @@
 package demogui;
 
+
+// Bài 2
 import javax.swing.JDialog;
 public class DemoJDialog extends JDialog{
 	public DemoJDialog()	{

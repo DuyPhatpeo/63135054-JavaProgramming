@@ -1,5 +1,6 @@
 package demogui;
 
+// Bai 1
 import javax.swing.JFrame;
 public class DemoJFrame extends JFrame{
 	public DemoJFrame()	{

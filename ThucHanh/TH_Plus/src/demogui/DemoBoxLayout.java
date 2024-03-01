@@ -1,5 +1,7 @@
 package demogui;
 
+
+// Bài 5
 import javax.swing.*;
 public class DemoBoxLayout extends JFrame{
 	public DemoBoxLayout()	{
