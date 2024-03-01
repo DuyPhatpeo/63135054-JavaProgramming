@@ -1,6 +1,6 @@
 package demogui;
 
-// Bài 9
+// Bài 9a
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
